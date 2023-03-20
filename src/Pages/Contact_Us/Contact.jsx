@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
     return (
         <div className="m-0 p-0 h-screen flex items-center justify-center">
-            <div className="w-11/12 sm:w-10/12 md:w-8/12 lg:w-6/12 xl:w-5/12 p-6 sm:p-10 rounded-3xl shadow-md backdrop-blur-md">
+            <div className="w-11/12 sm:w-10/12 md:w-8/12 lg:w-6/12 xl:w-5/12 p-6 sm:p-10 rounded-3xl bg-[#181818] backdrop-blur-sm backdrop-filter bg-opacity-50">
                 <h1 className="text-center text-[#e8e5e5] text-3xl sm:text-5xl font-medium font-Lato my-6">
                     Get In Touch With Us
                 </h1>
